@@ -9,4 +9,12 @@ Frontend Mentor: A showcase of my front-end skills. This collection features my 
 <b> Recipe-page-Main </b><br />
  [Live](https://rifkyfaris.github.io/recipe-page-main/) | [Repo](https://github.com/RifkyFaris/recipe-page-main)
 
- 
+
+![desktop-design](https://github.com/user-attachments/assets/048c8775-52ed-4c17-8bfc-6a4e86465624)
+<b>Interactive-Rating-Component-main</b><br />
+ [Live](https://rifkyfaris.github.io/interactive-rating-component-main/)  | [Repo](https://github.com/RifkyFaris/interactive-rating-component-main))
+
+# Acknowledgement
+
+A big thank you to anyone providing feedback on my solution. It definitely helps to find new ways to code and find easier solutions!
+
